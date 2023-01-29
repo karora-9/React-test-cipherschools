@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: sans-serif;
+}
+
+.error {
+    background: lightcoral;
+}
+
+.greeting-wrapper {
+    background-color: rgb(61, 17, 102);
+    color: #fff;
+    padding: 2rem;
+    border-radius: 1rem;
+    max-width: 600px;
+    margin: 2rem auto;
+}
